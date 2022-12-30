@@ -1,55 +1,53 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Baladeiro ou caseiro? qual é seu estilo de vida?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "O que você acha de balada com champanhe e chuvinha de artifício?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Adoro e depois posto tudo no Instagram.", "alias":"B"},
+        {"id": 2, "name":"Se pagarem pra mim, tamo junto.", "alias":"B"},
+        {"id": 3, "name":"Ai, não tenho paciência pra baladinha TOP.", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "E o que você acha de festa a fantasia?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Muito mais legal que festa normal.", "alias":"B"},
+        {"id": 2, "name":"Só no carnaval e com fantasia improvisada do meme do momento.", "alias":"B"},
+        {"id": 3, "name":"Tenho preguiça porque você gasta mais tempo e dinheiro do que dentro da festa em si.", "alias":"A"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual a sua opinião sobre pool parties?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Perfeito porque adoro beber durante o dia.", "alias":"B"},
+        {"id": 2, "name":"Se for pra usar a piscina de alguém no calor, tô dentro.", "alias":"B"},
+        {"id": 3, "name":"Nem pensar, o povo bebe cerveja o dia todo e faz a piscina de banheiro.", "alias":"A"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Você curte balada com aqueles grupos de tequileiros?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Acho que anima qualquer festa.", "alias":"B"},
+        {"id": 2, "name":"Acho péssimo, só topo pela tequila de graça.", "alias":"B"},
+        {"id": 3, "name":"Eu já fico de ressaca com duas cervejas, não preciso de alguém me dando tequila na boca.", "alias":"A"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "E música eletrônica, curte?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Acho contagiante, fico até amanhecer.", "alias":"B"},
+        {"id": 2, "name":"Prefiro ouvir minha lista do Spotify.", "alias":"A"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente é caseiro! Seu significado pra sextou é chamar os amigos pra beber na sua casa e depois torcer pra eles irem embora e você ficar com a Netflix toda pra você.",
+    "B": "Você muito provavelmente é baladeiro! Chega o final de semana e você já está querendo que alguém te chame pra rua, nem que seja pra comprar pão, haha."
   }
 }
